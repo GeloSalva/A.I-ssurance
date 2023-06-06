@@ -1,0 +1,4 @@
+shap==0.41.0
+pandas==2.0.1
+streamlit==1.12.2
+matplotlib==3.7.1
